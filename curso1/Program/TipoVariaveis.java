@@ -13,6 +13,7 @@ public class TipoVariaveis {
 
         // Operadores
 
-        
+        String nome = "LINGUAGEM " + "JAVA";
+        System.out.println(nome);
     }
 }
